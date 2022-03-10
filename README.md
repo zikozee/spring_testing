@@ -26,5 +26,10 @@ For questions and help:
 GitHub Issues will not be addressed."# spring_testing" 
 
 
-### COMPONENTS
+### TEST COMPONENTS
 - using TestProperties files and spring context
+
+### spring mvc test
+- locations for Beans xml
+- Argument capture usage and test
+- controller, params, status, model view test
